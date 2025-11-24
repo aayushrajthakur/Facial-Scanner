@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417802460462",
+    "project_id": "facial-scanner-3637f",
+    "storage_bucket": "facial-scanner-3637f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417802460462:android:eefc5004ac0dd6b151eebf",
+        "android_client_info": {
+          "package_name": "com.example.facialscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnveYnQrGFwoKgG-U_ifxQGU8pgvOm_yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

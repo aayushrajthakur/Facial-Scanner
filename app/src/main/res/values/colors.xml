@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sci_bg_dark">#050a10</color>
+    <color name="sci_bg_panel">#0a1525</color>
+    <color name="sci_primary">#00f0ff</color>
+    <color name="sci_secondary">#0077ff</color>
+    <color name="sci_accent">#ff3366</color>
+    <color name="sci_text_main">#e0f0ff</color>
+    <color name="sci_text_dim">#8baecb</color>
+    <color name="sci_border">#4D00F0FF</color>
+    <color name="sci_grid">#0D00F0FF</color>
+
+</resources>

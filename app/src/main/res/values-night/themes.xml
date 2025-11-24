@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Scientific" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sci_primary</item>
+        <item name="colorPrimaryVariant">@color/sci_secondary</item>
+        <item name="colorOnPrimary">@color/sci_bg_dark</item>
+        <item name="colorSecondary">@color/sci_secondary</item>
+        <item name="colorSecondaryVariant">@color/sci_primary</item>
+        <item name="colorOnSecondary">@color/sci_text_main</item>
+        <item name="android:statusBarColor">@color/sci_bg_dark</item>
+        <item name="android:windowBackground">@color/sci_bg_dark</item>
+        <item name="android:colorBackground">@color/sci_bg_dark</item>
+        <item name="colorSurface">@color/sci_bg_panel</item>
+        <item name="colorOnSurface">@color/sci_text_main</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+
+</resources>
